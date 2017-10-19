@@ -1,7 +1,7 @@
 Sub Scopus_SerialTitleAPI()
 
     Dim W As Worksheet: Set W = ActiveSheet
-    Dim last As Integer: last = W.Range("A10000").End(xlUp).Row
+    Dim last As Integer: last = W.Range("B10000").End(xlUp).Row
     If last = 1 Then Exit Sub
     Dim ISSN As String
     Dim i As Integer
