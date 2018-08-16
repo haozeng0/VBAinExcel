@@ -8,6 +8,8 @@ Application Programming Interfaces (APIs) are a powerful way for libraries to ga
 
 Refer to the Ulrich's Web API documentation (https://knowledge.exlibrisgroup.com/Ulrich%27s/Product_Documentation/Configuring/Ulrichsweb_API/Ulrichsweb%3A_Using_the_Ulrichsweb_API#Ulrichsweb_API) and Elsevier API documentation (https://dev.elsevier.com/) to adjust the macros to your desired fields.
 
+Note: An Ulrich's Web subscription is necessary to obtain an Ulrich's Web API key.
+
 # Example: Elsevier Scopus API in Excel
 
 ## Step 1: Register at the Elsevier Develop Protal (https://dev.elsevier.com/index.html), request the Scopus API key.
