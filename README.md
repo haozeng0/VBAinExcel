@@ -28,7 +28,7 @@ Application Programming Interfaces (APIs) are a powerful way for libraries to ga
 
 ![alt text](https://user-images.githubusercontent.com/12193996/31698299-da4a273c-b38a-11e7-9212-0c90fb998e73.png)
 
-## Step 5: Set VBA Porject Reference: Microsoft XML, V3.0 or V6.0
+## Step 5: Set VBA Project Reference: Microsoft XML, V3.0 or V6.0
 ![alt text](https://user-images.githubusercontent.com/12193996/31749780-0d4df612-b44a-11e7-8ed2-04941cda9788.png)
 
 ### Insert the script between:
