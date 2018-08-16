@@ -6,6 +6,8 @@ Using Excel and VBA with APIs to Wow Your Colleagues and Patrons, presented by H
 
 Application Programming Interfaces (APIs) are a powerful way for libraries to gather data, including usage statistics, bibliographic information, and metrics. In the context of an academic library, the presenters will describe their workflow for pulling data from APIs into Excel with Visual Basic Applications (VBA). Using two examples , they will explain how and why this method provides a user-friendly solution that empowers other departments, inside and outside the library, to gather data independently. They will demonstrate their use of Scopus and Ulrich’s Web APIs.
 
+Refer to the Ulrich's Web API documentation (https://knowledge.exlibrisgroup.com/Ulrich%27s/Product_Documentation/Configuring/Ulrichsweb_API/Ulrichsweb%3A_Using_the_Ulrichsweb_API#Ulrichsweb_API) and Elsevier API documentation (https://dev.elsevier.com/) to adjust the code for your desired fields.
+
 # Example: Elsevier Scopus API in Excel
 
 ## Step 1: Register at the Elsevier Develop Protal (https://dev.elsevier.com/index.html), request the Scopus API key.
