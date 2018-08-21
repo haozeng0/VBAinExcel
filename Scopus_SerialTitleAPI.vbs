@@ -21,9 +21,9 @@ For i = 1 To 1000
         Dim Publisher As IXMLDOMNode
         Dim AggregationType As IXMLDOMNode
         Dim OpenAccess As IXMLDOMNode
-        Dim snipYear As IXMLDOMNode
+        Dim snipYear As IXMLDOMAttribute
         Dim snipScore As IXMLDOMNode
-        Dim sjrYear As IXMLDOMNode
+        Dim sjrYear As IXMLDOMAttribute
         Dim sjrScore As IXMLDOMNode
         Dim citeScoreYear As IXMLDOMNode
         Dim citeScoreMetric As IXMLDOMNode
